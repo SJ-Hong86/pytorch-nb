@@ -1,2 +1,2 @@
 # pytorch-nb
-pytorch exercises based on Issac post
+This file contains torch exercises based on Issac post.
